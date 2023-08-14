@@ -1,0 +1,11 @@
+.heading {
+    font-size: 5rem;
+    font-weight: 700;
+    color: red;
+}
+.btn-custom {
+    background-color: blue;
+    color: white;
+    padding: 12px 8px;
+    border-radius: 16px;
+}
